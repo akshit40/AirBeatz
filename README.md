@@ -1,4 +1,4 @@
-# 🎶 AirBeatz
+
 <p align="center">
   <img src="airbeatz-logo.png" alt="AirBeatz Logo" width="250"/>
 </p>
