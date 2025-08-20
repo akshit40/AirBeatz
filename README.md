@@ -1,4 +1,8 @@
 # 🎶 AirBeatz
+<p align="center">
+  <img src="airbeatz-logo.png" alt="AirBeatz Logo" width="250"/>
+</p>
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/akshit40/AirBeatz)
 ![GitHub repo stars](https://img.shields.io/github/stars/akshit40/AirBeatz?style=social)
